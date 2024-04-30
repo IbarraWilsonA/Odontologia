@@ -161,6 +161,7 @@ justify-content: space-between;
 
 .servicios-1 {
     padding: 25px;
+    border-radius: 15px;
     box-shadow: 0 0 20px rgb(0, 0, 0, 0.1);
     flex-basis: calc(25% - 20px);
 }
@@ -188,6 +189,7 @@ justify-content: space-between;
 form {
     padding: 50px;
     width: 500px;
+    border-radius: 20px;
     text-align: center;
     box-shadow: 0 0 20px rgb(0, 0, 0, 0.2);
 }
@@ -209,7 +211,7 @@ form h2 {
     background-color: #02B1F4;
     color: #FFFFFF;
     position: absolute;
-    font-size: 20px;
+    font-size: 17px;
     top: 4px;
     left: 10px;
 }
@@ -218,7 +220,7 @@ form h2 {
     padding: 17px 15px 17px 65px;
     width: 100%;
     margin-bottom: 25px;
-    border-radius: 35px;
+    border-radius: 20px;
     background-color: transparent;
     border: 2px solid #02B1F4;
     font-size: 16px;
@@ -242,7 +244,7 @@ textarea {
     width: 100%;
     border: 0;
     box-shadow: 0 0 20px rgb(0, 0, 0, 0.2);
-    border-radius: 25px;
+    border-radius: 20px;
     color: #FFFFFF;
     font-size: 17px;
     cursor: pointer;
